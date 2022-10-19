@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JackKellett02
-- 👀 I’m interested in ... games and science fiction such as star trek and fantasy role-playing games such as skyrim and oblivion.
-- 🌱 I’m currently learning ... about programming in games.
+- 👀 I’m interested in ... nintendo ds and gameboy era games for the most part.
+- 🌱 I’m currently researching game engine development in C++.
 - 💞️ I’m looking to collaborate on ... nothing right now.
 
 <!---
